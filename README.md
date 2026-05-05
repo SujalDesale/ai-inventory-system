@@ -1,41 +1,61 @@
-# AI Inventory Pro (MERN + Tailwind)
-Production-ready starter including auth, products, sales, invoices, usage, reports, notifications, AI placeholder, PDF & CSV utilities, Docker setup.
+🚀 DailyCart – AI-Based Inventory Management System
 
-## Quick Start (Local)
-```bash
-# 1) Run Mongo locally or via Docker
-docker compose up -d mongo
+DailyCart is an AI-powered inventory management system designed to help businesses efficiently manage stock, analyze sales, and predict future demand using machine learning.
 
-# 2) Backend
-cd server
-cp .env.example .env
+🔥 Features
+📦 Product & Inventory Management
+🧾 Sales & Invoice Management
+📊 Reports & Analytics Dashboard
+🔔 Low Stock, Overstock & Expiry Alerts
+🤖 AI Demand Forecasting (Linear Regression)
+📈 Sales Trends & Category Analysis
+💬 AI Chat Assistant (Gemini API)
+📡 Supplier Notification System (Telegram Bot Integration)
+🧠 AI Module
+Uses Linear Regression (Scikit-learn) for forecasting
+Predicts next 7 days sales
+Generates monthly estimates
+Detects trends: Increasing, Decreasing, Stable
+Includes fallback logic for low or no data
+🛠️ Tech Stack
+
+Frontend: React.js
+Backend: Node.js, Express.js
+Database: MongoDB
+AI Service: Python (FastAPI), Scikit-learn
+Charts: Recharts
+Integration: Gemini API, Telegram Bot API
+
+📂 Project Structure
+client/        → React frontend  
+server/        → Node.js backend  
+ml-service/    → Python AI forecasting service  
+⚙️ Installation & Setup
+1. Clone the repository
+git clone https://github.com/SujalDesale/dailycart-ai.git
+cd dailycart-ai
+2. Install dependencies
 npm install
+cd client && npm install
+3. Setup environment variables
+
+Create a .env file in server/:
+
+MONGO_URI=your_mongodb_connection
+JWT_SECRET=your_secret_key
+GEMINI_API_KEY=your_api_key
+SUPPLIER_CHAT_ID=your_telegram_chat_id
+4. Run backend
 npm run dev
+5. Run frontend
+cd client
+npm start
+6. Run AI service
+cd ml-service
+uvicorn main:app --reload
 
-# 3) Frontend
-cd ../client
-npm install
-npm run dev
-```
-Open http://localhost:5173
 
-## Quick Start (Docker full stack)
-```bash
-docker compose up --build
-```
 
-## Env vars
-- Server: see `server/.env.example`
-- Client: see `client/.env.example`
+👨‍💻 Author
 
-## Seed data
-```bash
-cd server
-npm run seed
-```
-
-<!-- Updated Files  -->
-Client\pages\
-login.jsx
-Dashboard.jsx
-register.jsx
+Sujal Desale
