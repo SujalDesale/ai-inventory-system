@@ -48,29 +48,29 @@ ml-service/    → Python AI forecasting service
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.com/SujalDesale/ai-inventory-system.git
+git clone https://github.com/SujalDesale/ai-inventory-system.git  
 cd ai-inventory-system
 
 ### 2. Install dependencies
-npm install
+npm install  
 cd client && npm install
 
 ### 3. Setup environment variables
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
-GEMINI_API_KEY=your_api_key
-SUPPLIER_CHAT_ID=your_telegram_chat_id
+MONGO_URI=your_mongodb_connection  
+JWT_SECRET=your_secret_key  
+GEMINI_API_KEY=your_api_key  
+SUPPLIER_CHAT_ID=your_telegram_chat_id  
 
 ### 4. Run backend
-cd server
+cd server  
 npm run dev
 
 ### 5. Run frontend
-cd client
+cd client  
 npm start
 
 ### 6. Run AI service
-cd ml-service
+cd ml-service  
 uvicorn main:app --reload
 
 ---
