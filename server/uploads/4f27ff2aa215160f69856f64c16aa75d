@@ -1,0 +1,71 @@
+name,category,unit,quantity,costPrice,sellPrice,threshold,expiry,supplier
+Milk 1L,Dairy,Piece,202,156,177,49,2026-11-23,Supplier_3
+Milk 500ml,Dairy,Piece,96,89,127,27,2026-06-08,Supplier_5
+Curd 500g,Dairy,Piece,253,293,317,21,2027-02-28,Supplier_4
+Butter 200g,Dairy,Piece,207,55,68,15,2026-08-23,Supplier_3
+Cheese Slice Pack,Dairy,Piece,317,73,116,39,2026-09-11,Supplier_3
+Paneer 200g,Dairy,Piece,372,225,276,33,2026-08-17,Supplier_1
+Greek Yogurt,Dairy,Piece,150,237,261,35,2027-02-22,Supplier_2
+Buttermilk 1L,Dairy,Piece,158,41,48,11,2026-12-30,Supplier_5
+Cream 200ml,Dairy,Piece,194,120,137,31,2026-09-20,Supplier_5
+Flavored Milk,Dairy,Piece,445,60,94,19,2026-08-28,Supplier_1
+White Bread,Bakery,Piece,147,45,54,26,2026-11-05,Supplier_2
+Brown Bread,Bakery,Piece,301,69,123,12,2026-11-10,Supplier_5
+Burger Buns,Bakery,Piece,484,95,100,36,2027-02-27,Supplier_4
+Hot Dog Buns,Bakery,Piece,357,120,174,36,2026-09-16,Supplier_5
+Croissant,Bakery,Piece,250,208,226,13,2026-10-15,Supplier_1
+Muffin Chocolate,Bakery,Piece,263,44,56,37,2027-01-14,Supplier_5
+Cupcake Vanilla,Bakery,Piece,133,44,88,50,2026-10-06,Supplier_1
+Pav Bread,Bakery,Piece,467,162,204,24,2026-12-05,Supplier_3
+Wheat Bread,Bakery,Piece,366,13,54,12,2026-05-09,Supplier_1
+Garlic Bread,Bakery,Piece,166,221,273,22,2026-12-22,Supplier_2
+Basmati Rice 5Kg,Grains,Piece,30,153,163,41,2026-10-17,Supplier_3
+Wheat Flour 5Kg,Grains,Piece,244,60,78,12,2026-10-24,Supplier_1
+Toor Dal 1Kg,Grains,Piece,336,83,124,50,2026-06-08,Supplier_2
+Moong Dal 1Kg,Grains,Piece,456,154,163,32,2026-10-16,Supplier_4
+Chana Dal 1Kg,Grains,Piece,481,72,114,47,2026-06-14,Supplier_5
+Sugar 1Kg,Grains,Piece,91,105,113,19,2027-02-13,Supplier_4
+Salt 1Kg,Grains,Piece,458,202,237,47,2026-05-25,Supplier_5
+Poha 1Kg,Grains,Piece,45,246,261,18,2026-09-30,Supplier_3
+Suji 1Kg,Grains,Piece,313,183,243,42,2026-06-06,Supplier_3
+Oats 1Kg,Grains,Piece,350,132,160,28,2026-05-12,Supplier_1
+Potato Chips,Snacks,Piece,472,72,79,38,2027-01-20,Supplier_2
+Nachos,Snacks,Piece,494,191,208,10,2026-10-30,Supplier_2
+Salted Peanuts,Grains,Piece,139,212,257,45,2026-05-20,Supplier_2
+Popcorn,Snacks,Piece,139,86,104,31,2027-02-13,Supplier_3
+Biscuits Pack,Snacks,Piece,234,251,308,21,2027-02-08,Supplier_4
+Chocolate Bar,Snacks,Piece,260,178,190,49,2026-11-13,Supplier_3
+Energy Bar,Snacks,Piece,168,110,152,19,2026-11-11,Supplier_1
+Cookies Pack,Snacks,Piece,475,60,87,29,2026-09-11,Supplier_1
+Crackers,Snacks,Piece,485,37,88,36,2026-11-24,Supplier_4
+Trail Mix,Snacks,Piece,164,220,233,11,2026-11-21,Supplier_5
+Mineral Water 1L,Beverages,Piece,400,145,202,13,2026-07-04,Supplier_1
+Cola 2L,Beverages,Piece,249,210,231,50,2026-07-08,Supplier_5
+Orange Juice 1L,Beverages,Piece,97,36,78,10,2026-11-18,Supplier_1
+Apple Juice 1L,Beverages,Piece,213,165,224,25,2027-02-09,Supplier_3
+Green Tea Pack,Beverages,Piece,377,108,136,47,2026-11-19,Supplier_3
+Coffee 200g,Beverages,Piece,355,283,315,27,2027-01-01,Supplier_5
+Black Tea Pack,Beverages,Piece,66,285,308,11,2026-08-20,Supplier_4
+Cold Drink Can,Beverages,Piece,381,235,242,50,2027-02-16,Supplier_4
+Energy Drink,Beverages,Piece,194,177,198,39,2026-11-08,Supplier_1
+Lemonade 1L,Beverages,Piece,460,270,290,50,2026-11-25,Supplier_1
+Frozen Peas 500g,Frozen,Piece,75,105,162,37,2026-08-25,Supplier_5
+Frozen Corn 500g,Frozen,Piece,443,170,184,32,2026-07-15,Supplier_2
+Ice Cream Vanilla,Frozen,Piece,264,50,91,22,2027-02-26,Supplier_1
+Ice Cream Chocolate,Snacks,Piece,242,122,152,48,2026-08-12,Supplier_5
+Frozen Pizza,Frozen,Piece,266,126,150,25,2026-12-12,Supplier_1
+Frozen French Fries,Frozen,Piece,185,54,65,33,2026-12-24,Supplier_3
+Frozen Nuggets,Frozen,Piece,218,273,322,39,2027-01-23,Supplier_5
+Frozen Paratha,Frozen,Piece,334,237,276,37,2027-01-08,Supplier_2
+Frozen Momos,Frozen,Piece,351,243,283,21,2026-11-04,Supplier_2
+Frozen Veg Mix,Frozen,Piece,195,271,316,19,2026-09-30,Supplier_3
+Shampoo 200ml,Personal Care,Piece,206,240,275,26,2026-09-18,Supplier_3
+Soap Bar,Personal Care,Piece,344,20,28,48,2026-09-11,Supplier_3
+Toothpaste 100g,Personal Care,Piece,108,296,319,10,2026-08-05,Supplier_2
+Toothbrush,Personal Care,Piece,397,247,296,27,2026-05-14,Supplier_3
+Hand Wash,Personal Care,Piece,349,16,41,20,2026-05-27,Supplier_2
+Face Wash,Personal Care,Piece,155,199,237,31,2026-09-28,Supplier_3
+Body Lotion,Personal Care,Piece,411,141,159,14,2026-12-11,Supplier_4
+Hair Oil,Personal Care,Piece,107,284,293,50,2027-02-11,Supplier_1
+Sanitizer 100ml,Personal Care,Piece,163,258,282,39,2027-01-09,Supplier_5
+Tissue Box,Personal Care,Piece,123,104,109,47,2026-07-25,Supplier_1

@@ -1,0 +1,30 @@
+# dependencies
+node_modules
+client/node_modules
+server/node_modules
+
+# build
+dist
+build
+.client-cache
+
+# env
+.env
+client/.env
+server/.env
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea

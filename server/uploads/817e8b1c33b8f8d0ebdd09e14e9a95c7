@@ -1,0 +1,61 @@
+name,category,unit,quantity,costPrice,sellPrice,threshold,expiry,supplier
+Product_1,Dairy,Kg,365,146,152,26,2026-09-04,Supplier_8
+Product_2,Personal Care,Litre,86,42,75,29,2026-07-22,Supplier_6
+Product_3,Beverages,Pack,300,44,53,45,2026-12-05,Supplier_5
+Product_4,Grains,Pack,275,177,183,8,2026-10-03,Supplier_1
+Product_5,Beverages,Piece,327,162,183,13,2027-01-24,Supplier_5
+Product_6,Grains,Box,170,38,81,44,2026-12-20,Supplier_10
+Product_7,Dairy,Kg,269,14,44,22,2026-06-26,Supplier_3
+Product_8,Bakery,Box,353,171,193,13,2026-09-07,Supplier_8
+Product_9,Bakery,Litre,275,115,145,37,2027-02-10,Supplier_3
+Product_10,Snacks,Pack,157,189,207,8,2026-06-10,Supplier_9
+Product_11,Frozen,Kg,143,163,211,44,2027-02-03,Supplier_9
+Product_12,Frozen,Piece,357,63,88,45,2026-05-12,Supplier_6
+Product_13,Beverages,Piece,183,65,112,28,2026-10-30,Supplier_8
+Product_14,Beverages,Litre,78,94,112,46,2026-09-05,Supplier_5
+Product_15,Frozen,Box,216,149,157,17,2026-10-30,Supplier_10
+Product_16,Bakery,Piece,252,154,197,39,2026-12-28,Supplier_6
+Product_17,Dairy,Pack,253,96,101,26,2026-08-27,Supplier_8
+Product_18,Beverages,Litre,499,80,95,31,2026-08-27,Supplier_8
+Product_19,Dairy,Litre,355,184,231,11,2026-12-02,Supplier_7
+Product_20,Grains,Pack,110,10,18,19,2026-11-12,Supplier_1
+Product_21,Bakery,Pack,261,150,188,45,2026-08-15,Supplier_4
+Product_22,Bakery,Pack,470,126,168,25,2026-06-11,Supplier_2
+Product_23,Grains,Box,147,10,41,23,2027-01-27,Supplier_2
+Product_24,Dairy,Pack,423,16,21,36,2026-11-02,Supplier_5
+Product_25,Personal Care,Piece,427,188,208,28,2026-05-29,Supplier_1
+Product_26,Personal Care,Box,150,86,114,35,2026-08-02,Supplier_6
+Product_27,Bakery,Litre,229,49,68,12,2027-02-14,Supplier_3
+Product_28,Beverages,Litre,302,60,68,33,2027-02-07,Supplier_6
+Product_29,Dairy,Piece,40,94,128,37,2026-07-14,Supplier_6
+Product_30,Bakery,Litre,325,153,165,20,2026-05-15,Supplier_8
+Product_31,Personal Care,Piece,327,32,49,41,2026-12-15,Supplier_1
+Product_32,Frozen,Box,415,72,105,37,2027-01-14,Supplier_8
+Product_33,Grains,Kg,486,60,91,41,2026-08-12,Supplier_1
+Product_34,Snacks,Box,61,156,169,44,2026-08-16,Supplier_5
+Product_35,Grains,Litre,192,193,201,31,2026-06-04,Supplier_2
+Product_36,Beverages,Litre,489,16,50,7,2026-09-28,Supplier_6
+Product_37,Frozen,Pack,110,120,160,6,2026-04-13,Supplier_6
+Product_38,Grains,Piece,68,25,56,17,2026-07-08,Supplier_5
+Product_39,Grains,Kg,130,21,44,33,2026-08-23,Supplier_1
+Product_40,Bakery,Pack,151,200,221,23,2027-01-22,Supplier_6
+Product_41,Grains,Kg,355,13,29,34,2026-05-04,Supplier_5
+Product_42,Frozen,Litre,265,169,198,13,2026-10-03,Supplier_3
+Product_43,Frozen,Kg,285,23,52,16,2026-05-07,Supplier_9
+Product_44,Dairy,Kg,500,95,115,11,2026-11-17,Supplier_4
+Product_45,Dairy,Kg,408,149,179,40,2027-02-19,Supplier_10
+Product_46,Dairy,Kg,208,71,79,33,2026-08-24,Supplier_1
+Product_47,Frozen,Box,112,122,143,44,2026-12-17,Supplier_7
+Product_48,Snacks,Pack,79,101,122,33,2026-06-14,Supplier_1
+Product_49,Frozen,Litre,87,34,48,40,2026-10-17,Supplier_10
+Product_50,Personal Care,Pack,284,89,95,32,2026-11-23,Supplier_4
+Product_51,Grains,Kg,120,185,232,10,2026-07-02,Supplier_9
+Product_52,Grains,Litre,257,29,70,28,2026-05-30,Supplier_4
+Product_53,Grains,Box,211,170,178,27,2026-12-22,Supplier_5
+Product_54,Grains,Litre,431,10,20,30,2027-01-05,Supplier_2
+Product_55,Snacks,Pack,470,16,56,23,2026-03-31,Supplier_4
+Product_56,Dairy,Litre,230,170,205,11,2026-06-07,Supplier_9
+Product_57,Bakery,Litre,204,19,45,11,2026-04-23,Supplier_6
+Product_58,Snacks,Box,493,55,95,19,2026-08-03,Supplier_10
+Product_59,Beverages,Litre,67,141,159,50,2026-09-07,Supplier_7
+Product_60,Personal Care,Litre,54,186,229,41,2026-10-19,Supplier_9
